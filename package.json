@@ -1,0 +1,13 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "**Welcome to week0 on JavaScript lessons with your tutor,** \r **Stephen Brooks.  -- www.developing4life.com --**\r **While we go along the learning path there will be added**\r **stuff to help you along the way.**\r **CONTACT INFO:**\r **E: stephenbrooks714@gmail.com**\r **C: 580-309-0236**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stephen Brooks",
+  "website": "www.developing4life.com",
+  "license": "ISC"
+}
