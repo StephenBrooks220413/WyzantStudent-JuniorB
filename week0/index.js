@@ -10,7 +10,6 @@ Variables
 Call a variable and show it in the console
 */
 
-
 var people = "John"; //var is calling people as the key and "John" as the value
 
 people = "Sam"; //Key was re-assigned to "Sam"
