@@ -1,5 +1,6 @@
 // // Wlecome to week 1 !!!!!!!!!!!!!!!!!!!!!!!!!
-
+// We will be going over week1 material together as I code along and you follow in your code editor
+// or just watch and then refer to notes for coding.
 // /*
 // The Concept of Data Types
 // In programming, data types is an important concept.
