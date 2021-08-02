@@ -25,6 +25,7 @@ let answer2 = "He is called 'Johnny'";    // Single quotes inside double quotes
 let answer3 = 'He is called "Johnny"';    // Double quotes inside single quotes
 
 console.log(answer1 + ' ' + answer2 + ' ' + answer3);
+console.log(`${answer1} ${answer2} ${answer3}`);
 
 // ///////////////////////////////////////////////////
 
